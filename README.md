@@ -4,7 +4,7 @@ I'm a Principal Developer with a strong focus on building innovative systems tha
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 - AI Systems: Deep learning, inference pipelines, model lifecycle, data modelling, Python, PyTorch, 
 Kubernetes, TensorFlow, JAX, Pandas, Docker, ONNX, GitHub Actions, Terraform, Streamlit, 
@@ -20,15 +20,13 @@ optimization, SIMD acceleration
 - Spatial Data Processing/Spatial Data Structures: multidimensional arrays, spatial indexing, dimensional 
 engines, N-dimensional arrays, data engines 
 - NLP: Transformers, BERT, SentencePiece, NLTK
-
 ---
 
-### 💼 Current Work & Interests
+### Current Work & Interests
 
 - Architecting scalable AI systems integrated with blockchain smart contracts  
 - Researching custom data compression for multi-dimensional arrays  
 - Building decentralized apps and backend APIs using Node.js  
 - Exploring edge-cloud hybrid solutions
 - Biomedical Computing: Gene modeling, vaccine development, bioinformatics
-- 
-  
+
