@@ -29,4 +29,8 @@ engines, N-dimensional arrays, data engines
 - Building decentralized apps and backend APIs using Node.js  
 - Exploring edge-cloud hybrid solutions
 - Biomedical Computing: Gene modeling, vaccine development, bioinformatics
+---
 
+### Connect with Me
+
+- [LinkedIn](https://http://linkedin.com/in/yevhen-kolomiiets-7a97a6250
