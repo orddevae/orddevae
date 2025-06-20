@@ -33,4 +33,4 @@ engines, N-dimensional arrays, data engines
 
 ### Connect with Me
 
-- [LinkedIn](https://http://linkedin.com/in/yevhen-kolomiiets-7a97a6250
+- [LinkedIn](http://linkedin.com/in/yevhen-kolomiiets-7a97a625)
